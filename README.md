@@ -6,4 +6,4 @@ Langkah utama meliputi pengaturan IP address, konfigurasi router dan switch, ser
 Hasil percobaan menunjukkan semua perangkat berhasil terhubung, dan router dapat melakukan routing antar subnet dengan benar.
 Percobaan ini membuktikan fungsi router sebagai penghubung antar jaringan dan switch sebagai penghubung antar host dalam satu LAN.
 
-Link Youtube =
+Link Youtube = https://youtu.be/aDgfpot0bjM
